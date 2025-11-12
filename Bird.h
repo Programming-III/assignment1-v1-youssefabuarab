@@ -2,8 +2,8 @@
 using namespace std;
 #include <string>
 
-#ifndef Mammel_H
-#define Mammel_H
+#ifndef Bird_H
+#define Bird_H
 #include "Animal_H"
 
 
